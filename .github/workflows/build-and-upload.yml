@@ -1,7 +1,10 @@
 name: Build and upload binary artifact
 
-on: push
-
+on: 
+  push:
+    branches:
+      - 'releases/**'
+      
 jobs:
   release:
     runs-on: ubuntu-latest
