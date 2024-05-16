@@ -1,6 +1,6 @@
-package fact.it.springgithubactionsdemo.controller;
+package zakerby.pitchgithubactions.controller;
 
-import fact.it.springgithubactionsdemo.model.Person;
+import zakerby.pitchgithubactions.model.Person;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;

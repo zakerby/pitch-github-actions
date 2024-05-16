@@ -1,6 +1,6 @@
-package fact.it.springgithubactionsdemo;
+package zakerby.pitchgithubactions;
 
-import fact.it.springgithubactionsdemo.model.Person;
+import zakerby.pitchgithubactions.model.Person;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 

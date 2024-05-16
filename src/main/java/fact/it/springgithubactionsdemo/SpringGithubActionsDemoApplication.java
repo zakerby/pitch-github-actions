@@ -1,4 +1,4 @@
-package fact.it.springgithubactionsdemo;
+package zakerby.pitchgithubactions;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

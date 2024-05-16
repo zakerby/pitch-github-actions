@@ -1,4 +1,4 @@
-package fact.it.springgithubactionsdemo.model;
+package zakerby.pitchgithubactions.model;
 
 public class Person {
 
