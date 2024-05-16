@@ -1,4 +1,4 @@
-name: Run tests on Java 8
+name: Run tests on Java
 
 on: push
 
