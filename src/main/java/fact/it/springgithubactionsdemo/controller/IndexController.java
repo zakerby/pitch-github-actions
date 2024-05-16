@@ -26,7 +26,5 @@ public class IndexController {
         model.addAttribute("person",person);
 
         return "output";
-
     }
-
 }
